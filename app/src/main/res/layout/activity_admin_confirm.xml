@@ -5,7 +5,7 @@
     android:id="@+id/studentHostel"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.prashanjeet.messmanager.AdminConfirm">
+    tools:context="com.example.rohit.messmanager.AdminConfirm">
 
     <TextView
         android:id="@+id/studentNam"

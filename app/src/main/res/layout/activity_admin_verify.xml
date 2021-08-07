@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.prashanjeet.messmanager.AdminVerify">
+    tools:context="com.example.rohit.messmanager.AdminVerify">
     <ListView
         android:id="@+id/listViewAppo"
         android:layout_width="match_parent"

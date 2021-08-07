@@ -1,7 +1,7 @@
 package com.example.rohit.messmanager;
 
 /**
- * Created by PRASHANJEET on 04-01-2019.
+ * Created by rohit on 04-01-2019.
  */
 
 public class Student {
